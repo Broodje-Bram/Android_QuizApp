@@ -4,5 +4,5 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
     <color name="darkmode">#121212</color>
-    <color name="achtergrond">#212121</color>
+    <color name="background">#212121</color>
 </resources>
